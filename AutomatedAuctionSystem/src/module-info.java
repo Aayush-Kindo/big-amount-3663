@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author aayus
- *
- */
-module AutomatedAuctionSystem {
-}
